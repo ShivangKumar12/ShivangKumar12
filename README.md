@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang Kumar</h1>
-<h3 align="center">A passionate MERN Stack Developer from India. I as freelancer and also contribute in my free time.</h3>
+<h3 align="center">A passionate MERN Stack Developer from India. I worked as freelancer and also contribute in my free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangkumar12&label=Profile%20views&color=0e75b6&style=flat" alt="shivangkumar12" /> </p>
 
