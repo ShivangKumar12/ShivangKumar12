@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Software Developer | MERN Stack | Cybersecurity | Patent Holder | B.Tech CSE '27</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Full-Stack+Developer+%7C+MERN+Stack+%7C+Open+Source+Contributor;Passionate+about+building+secure+scalable+systems;Learning+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+%7C+MERN+Stack+%7C+Open+Source+Contributor;Passionate+about+building+secure+scalable+systems;Learning+%26+Growing+Every+Day+%F0%9F%9A%80" />
+
 </p>
 
 <p align="center">
