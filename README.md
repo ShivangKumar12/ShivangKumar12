@@ -25,14 +25,17 @@
 - 👨‍🏫 Dev Evangelist | Tech Community Lead | Open Source Contributor
 
 ---
+
 ### 📝 Patents
 
-| Title | Description | Tech Stack | Date |
-|--------|-------------|------------|------|
-| **An Improved System for Facilitating Recovery of Lost Items** | AI-driven Lost & Found system using digital identity verification, smart delivery, and automated item matching | AI/ML, OCR, NFC/QR, React/Flutter, PostgreSQL, Cloud Deployment | Aug 21, 2025 |
-| **An Improved System for Detection and Prevention of Digital Fraud in Advanced and Real-Time** | Decentralized fraud detection using AI, behavioral biometrics, and blockchain for instant, privacy-preserving threat analysis | ML Models, Blockchain, Behavioral Biometrics, Kafka, Node.js/Python, Kubernetes | Jul 28, 2025 |
-| **Wearable Personal Security Device with Decentralized Emergency Communication and Threat Prediction System** | Wearable safety device enabling offline emergency alerts & AI-based threat prediction using mesh networks | IoT/Embedded Systems, Mesh Network, AI Engine, GPS Module, Mobile App (Android/iOS) | Mar 17, 2025 |
+| Title | Description | Tech Stack | Date | Application No. |
+|--------|-------------|------------|------|------------------|
+| **An Improved System for Facilitating Recovery of Lost Items** | AI-driven Lost & Found system using digital identity verification, smart delivery, and automated item matching | AI/ML, OCR, NFC/QR, React/Flutter, PostgreSQL, Cloud Deployment | Aug 21, 2025 | **202511079577** |
+| **An Improved System for Detection and Prevention of Digital Fraud in Advanced and Real-Time** | Decentralized fraud detection using AI, behavioral biometrics, and blockchain for instant, privacy-preserving threat analysis | ML Models, Blockchain, Behavioral Biometrics, Kafka, Node.js/Python, Kubernetes | Jul 28, 2025 | **202511071490** |
+| **Wearable Personal Security Device with Decentralized Emergency Communication and Threat Prediction System** | Wearable safety device enabling offline emergency alerts & AI-based threat prediction using mesh networks | IoT/Embedded Systems, Mesh Network, AI Engine, GPS Module, Mobile App (Android/iOS) | Mar 17, 2025 | **202511023765** |
 ---
+
+
 
 
 ### 🛠 Tech Stack & Tools
