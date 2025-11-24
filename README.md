@@ -72,18 +72,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangkumar12&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangkumar12&layout=compact&theme=default" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shivangkumar12&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" 
+    height="165" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangkumar12&layout=compact&hide=html&theme=transparent" 
+    height="165" 
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangkumar12&theme=default" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=shivangkumar12&theme=transparent&hide_border=false" 
+    height="180" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
+
 
 ### 🌟 Top Contributions
 
