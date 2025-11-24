@@ -21,7 +21,7 @@
 - 🔭 Currently focused on building **secure and scalable backend systems**
 - 💡 Exploring **Cybersecurity**, **OAuth2**, **JWT**, **Zero Trust Architecture**
 - 🛡️ Passionate about **Full-Stack Development** and **Cloud Security**
-- 📝 **Patent Filed**: *Wearable Security Device with Emergency Communication* (Mar 2025)
+- 📝 **3X Patent Filed**
 - 👨‍🏫 Dev Evangelist | Tech Community Lead | Open Source Contributor
 
 ---
